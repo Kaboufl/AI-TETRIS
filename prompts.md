@@ -46,3 +46,5 @@ Considering the following tetris logic, refactor the computeBestMove function to
 Add a timeout to slow down the AI in its gameplay logic
 
 Now each time the player clears a line, the AI delay gets reduced until a floor of 15ms
+
+Redesign the tetris user interface to be more friendly
